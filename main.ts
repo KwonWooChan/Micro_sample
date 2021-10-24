@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    counter += 3
+    counter += 7
     basic.showNumber(counter)
 })
 let counter = 0
